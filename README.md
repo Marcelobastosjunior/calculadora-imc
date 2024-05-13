@@ -37,3 +37,6 @@
 </p>
 
   ![image](https://github.com/Marcelobastosjunior/calculadora-imc/assets/95103548/a04363a6-9901-417b-9340-d2daaf7c562d)
+
+
+  site: https://marcelobastosjunior.github.io/calculadora-imc/
